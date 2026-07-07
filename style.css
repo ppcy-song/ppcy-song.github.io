@@ -96,4 +96,15 @@ footer {
   .section {
     margin: 22px auto;
   }
+
+  a {
+    color: #2563eb;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+  
 }
